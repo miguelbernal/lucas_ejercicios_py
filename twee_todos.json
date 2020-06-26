@@ -1,0 +1,1216 @@
+{
+  "created_at": "Fri Jun 19 19:46:34 +0000 2020",
+  "id": 1274066060422062080,
+  "id_str": "1274066060422062080",
+  "text": "RT @ceres_tag: Be part of this opportunity to learn about next generation capabilities for your livestock operations featuring Ceres Tag #C\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ceres_tag",
+        "name": "Ceres Tag",
+        "id": 768286287153336325,
+        "id_str": "768286287153336325",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 935576575680176128,
+    "id_str": "935576575680176128",
+    "name": "Chris Gray",
+    "screen_name": "ChrisG_Gstar",
+    "location": "Covington, LA",
+    "description": "VP, Emerging Technologies Globalstar",
+    "url": "https://t.co/aCYlAqaowF",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/aCYlAqaowF",
+            "expanded_url": "http://www.globalstar.com",
+            "display_url": "globalstar.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 31,
+    "friends_count": 125,
+    "listed_count": 0,
+    "created_at": "Tue Nov 28 18:30:12 +0000 2017",
+    "favourites_count": 88,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 184,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/935591872579248128/-86pqDL4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/935591872579248128/-86pqDL4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/935576575680176128/1524175865",
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jun 18 23:13:00 +0000 2020",
+    "id": 1273755622194900992,
+    "id_str": "1273755622194900992",
+    "text": "Be part of this opportunity to learn about next generation capabilities for your livestock operations featuring Cer\u2026 https://t.co/ZV7c8a420E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZV7c8a420E",
+          "expanded_url": "https://twitter.com/i/web/status/1273755622194900992",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 768286287153336325,
+      "id_str": "768286287153336325",
+      "name": "Ceres Tag",
+      "screen_name": "ceres_tag",
+      "location": "",
+      "description": "Ceres Tag is the worlds first animal information platform for traceability provenance and animal welfare monitoring using a direct to satellite smart tag.",
+      "url": "https://t.co/n9feB89ZR6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n9feB89ZR6",
+              "expanded_url": "http://www.cerestag.com",
+              "display_url": "cerestag.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 170,
+      "friends_count": 37,
+      "listed_count": 2,
+      "created_at": "Wed Aug 24 03:18:19 +0000 2016",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 86,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/768286287153336325/1587015502",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Jun 19 08:09:33 +0000 2020",
+  "id": 1273890650602246147,
+  "id_str": "1273890650602246147",
+  "text": "RT @ceres_tag: By using accelerometers and algorithms to detect problems in behaviour, Ceres Tag alerts the producer when to investigate an\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ceres_tag",
+        "name": "Ceres Tag",
+        "id": 768286287153336325,
+        "id_str": "768286287153336325",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1017671374364651520,
+    "id_str": "1017671374364651520",
+    "name": "Niel Swart Consulting",
+    "screen_name": "nielswartagtech",
+    "location": "Potchefstroom, South Africa",
+    "description": "We create innovative digital products for #agtech companies. \n\n#agritech, #iot, #ai, #agriculture #smartfarming #precisionag",
+    "url": "https://t.co/SLhqaFCHDl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/SLhqaFCHDl",
+            "expanded_url": "http://nielswart.com",
+            "display_url": "nielswart.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 200,
+    "friends_count": 896,
+    "listed_count": 1,
+    "created_at": "Fri Jul 13 07:25:37 +0000 2018",
+    "favourites_count": 186,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 379,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1017778673137709057/COt5azCV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017778673137709057/COt5azCV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017671374364651520/1534840455",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jun 18 09:45:35 +0000 2020",
+    "id": 1273552428365828097,
+    "id_str": "1273552428365828097",
+    "text": "By using accelerometers and algorithms to detect problems in behaviour, Ceres Tag alerts the producer when to inves\u2026 https://t.co/xLajoPSCyw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xLajoPSCyw",
+          "expanded_url": "https://twitter.com/i/web/status/1273552428365828097",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 768286287153336325,
+      "id_str": "768286287153336325",
+      "name": "Ceres Tag",
+      "screen_name": "ceres_tag",
+      "location": "",
+      "description": "Ceres Tag is the worlds first animal information platform for traceability provenance and animal welfare monitoring using a direct to satellite smart tag.",
+      "url": "https://t.co/n9feB89ZR6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n9feB89ZR6",
+              "expanded_url": "http://www.cerestag.com",
+              "display_url": "cerestag.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 170,
+      "friends_count": 37,
+      "listed_count": 2,
+      "created_at": "Wed Aug 24 03:18:19 +0000 2016",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 86,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/768286287153336325/1587015502",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Thu Jun 18 23:21:09 +0000 2020",
+  "id": 1273757676132945920,
+  "id_str": "1273757676132945920",
+  "text": "RT @ceres_tag: Be part of this opportunity to learn about next generation capabilities for your livestock operations featuring Ceres Tag #C\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ceres_tag",
+        "name": "Ceres Tag",
+        "id": 768286287153336325,
+        "id_str": "768286287153336325",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29755398,
+    "id_str": "29755398",
+    "name": "Kim Paper-it",
+    "screen_name": "paperball",
+    "location": "Brisbane",
+    "description": "Wandered into a few countries & learnt from the locals. Stepmum, auntie, passionate about animal welfare, global economy & the odd cheeky drink.AOAMO",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 995,
+    "friends_count": 2023,
+    "listed_count": 16,
+    "created_at": "Wed Apr 08 16:34:46 +0000 2009",
+    "favourites_count": 14092,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13263,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1248027954224828417/go2TJfs4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248027954224828417/go2TJfs4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/29755398/1401059343",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jun 18 23:13:00 +0000 2020",
+    "id": 1273755622194900992,
+    "id_str": "1273755622194900992",
+    "text": "Be part of this opportunity to learn about next generation capabilities for your livestock operations featuring Cer\u2026 https://t.co/ZV7c8a420E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZV7c8a420E",
+          "expanded_url": "https://twitter.com/i/web/status/1273755622194900992",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 768286287153336325,
+      "id_str": "768286287153336325",
+      "name": "Ceres Tag",
+      "screen_name": "ceres_tag",
+      "location": "",
+      "description": "Ceres Tag is the worlds first animal information platform for traceability provenance and animal welfare monitoring using a direct to satellite smart tag.",
+      "url": "https://t.co/n9feB89ZR6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n9feB89ZR6",
+              "expanded_url": "http://www.cerestag.com",
+              "display_url": "cerestag.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 170,
+      "friends_count": 37,
+      "listed_count": 2,
+      "created_at": "Wed Aug 24 03:18:19 +0000 2016",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 86,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/768286287153336325/1587015502",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Thu Jun 18 10:19:52 +0000 2020",
+  "id": 1273561057240350720,
+  "id_str": "1273561057240350720",
+  "text": "RT @ceres_tag: By using accelerometers and algorithms to detect problems in behaviour, Ceres Tag alerts the producer when to investigate an\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ceres_tag",
+        "name": "Ceres Tag",
+        "id": 768286287153336325,
+        "id_str": "768286287153336325",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29755398,
+    "id_str": "29755398",
+    "name": "Kim Paper-it",
+    "screen_name": "paperball",
+    "location": "Brisbane",
+    "description": "Wandered into a few countries & learnt from the locals. Stepmum, auntie, passionate about animal welfare, global economy & the odd cheeky drink.AOAMO",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 995,
+    "friends_count": 2023,
+    "listed_count": 16,
+    "created_at": "Wed Apr 08 16:34:46 +0000 2009",
+    "favourites_count": 14092,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13263,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1248027954224828417/go2TJfs4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248027954224828417/go2TJfs4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/29755398/1401059343",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jun 18 09:45:35 +0000 2020",
+    "id": 1273552428365828097,
+    "id_str": "1273552428365828097",
+    "text": "By using accelerometers and algorithms to detect problems in behaviour, Ceres Tag alerts the producer when to inves\u2026 https://t.co/xLajoPSCyw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xLajoPSCyw",
+          "expanded_url": "https://twitter.com/i/web/status/1273552428365828097",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 768286287153336325,
+      "id_str": "768286287153336325",
+      "name": "Ceres Tag",
+      "screen_name": "ceres_tag",
+      "location": "",
+      "description": "Ceres Tag is the worlds first animal information platform for traceability provenance and animal welfare monitoring using a direct to satellite smart tag.",
+      "url": "https://t.co/n9feB89ZR6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n9feB89ZR6",
+              "expanded_url": "http://www.cerestag.com",
+              "display_url": "cerestag.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 170,
+      "friends_count": 37,
+      "listed_count": 2,
+      "created_at": "Wed Aug 24 03:18:19 +0000 2016",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 86,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/768286287153336325/1587015502",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Thu Jun 18 10:19:43 +0000 2020",
+  "id": 1273561019973959680,
+  "id_str": "1273561019973959680",
+  "text": "RT @ceres_tag: Biosecurity is instrumental to the Australian livestock industry \ud83d\udc2e\nToday with African Swine Fever, FMD and other welfare mat\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ceres_tag",
+        "name": "Ceres Tag",
+        "id": 768286287153336325,
+        "id_str": "768286287153336325",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29755398,
+    "id_str": "29755398",
+    "name": "Kim Paper-it",
+    "screen_name": "paperball",
+    "location": "Brisbane",
+    "description": "Wandered into a few countries & learnt from the locals. Stepmum, auntie, passionate about animal welfare, global economy & the odd cheeky drink.AOAMO",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 995,
+    "friends_count": 2023,
+    "listed_count": 16,
+    "created_at": "Wed Apr 08 16:34:46 +0000 2009",
+    "favourites_count": 14092,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13263,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1248027954224828417/go2TJfs4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248027954224828417/go2TJfs4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/29755398/1401059343",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 16 10:37:00 +0000 2020",
+    "id": 1272840595715719169,
+    "id_str": "1272840595715719169",
+    "text": "Biosecurity is instrumental to the Australian livestock industry \ud83d\udc2e\nToday with African Swine Fever, FMD and other we\u2026 https://t.co/zf0BWzf2fI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/zf0BWzf2fI",
+          "expanded_url": "https://twitter.com/i/web/status/1272840595715719169",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 768286287153336325,
+      "id_str": "768286287153336325",
+      "name": "Ceres Tag",
+      "screen_name": "ceres_tag",
+      "location": "",
+      "description": "Ceres Tag is the worlds first animal information platform for traceability provenance and animal welfare monitoring using a direct to satellite smart tag.",
+      "url": "https://t.co/n9feB89ZR6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n9feB89ZR6",
+              "expanded_url": "http://www.cerestag.com",
+              "display_url": "cerestag.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 170,
+      "friends_count": 37,
+      "listed_count": 2,
+      "created_at": "Wed Aug 24 03:18:19 +0000 2016",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 86,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/768286287153336325/1587015502",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Thu Jun 18 10:07:57 +0000 2020",
+  "id": 1273558057658617856,
+  "id_str": "1273558057658617856",
+  "text": "RT @ceres_tag: There are economic, environmental and social benefits to Ceres Tag, and it collects its data like this:\n\nMovement monitoring\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ceres_tag",
+        "name": "Ceres Tag",
+        "id": 768286287153336325,
+        "id_str": "768286287153336325",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 768286287153336325,
+    "id_str": "768286287153336325",
+    "name": "Ceres Tag",
+    "screen_name": "ceres_tag",
+    "location": "",
+    "description": "Ceres Tag is the worlds first animal information platform for traceability provenance and animal welfare monitoring using a direct to satellite smart tag.",
+    "url": "https://t.co/n9feB89ZR6",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/n9feB89ZR6",
+            "expanded_url": "http://www.cerestag.com",
+            "display_url": "cerestag.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 170,
+    "friends_count": 37,
+    "listed_count": 2,
+    "created_at": "Wed Aug 24 03:18:19 +0000 2016",
+    "favourites_count": 5,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 86,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/768286287153336325/1587015502",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 02 09:23:35 +0000 2020",
+    "id": 1267748689621090304,
+    "id_str": "1267748689621090304",
+    "text": "There are economic, environmental and social benefits to Ceres Tag, and it collects its data like this:\n\nMovement m\u2026 https://t.co/MrNFFWu8cH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MrNFFWu8cH",
+          "expanded_url": "https://twitter.com/i/web/status/1267748689621090304",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 768286287153336325,
+      "id_str": "768286287153336325",
+      "name": "Ceres Tag",
+      "screen_name": "ceres_tag",
+      "location": "",
+      "description": "Ceres Tag is the worlds first animal information platform for traceability provenance and animal welfare monitoring using a direct to satellite smart tag.",
+      "url": "https://t.co/n9feB89ZR6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n9feB89ZR6",
+              "expanded_url": "http://www.cerestag.com",
+              "display_url": "cerestag.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 170,
+      "friends_count": 37,
+      "listed_count": 2,
+      "created_at": "Wed Aug 24 03:18:19 +0000 2016",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 86,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250656261139361794/2w2fRCKZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/768286287153336325/1587015502",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

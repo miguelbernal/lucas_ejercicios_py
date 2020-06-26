@@ -1,5 +1,6 @@
 import tweepy
 import json
+from aylienapiclient import textapi
 
 consumer_key = "I6FeiBAfaab1hgjYZQEHQOdTZ"
 consumer_secret = "rOYbpoYnMtP30Dyva9DO9vTQDjkFIf6fqkmSkO3Rnbkx1lmChS"
@@ -54,3 +55,5 @@ for i in search_results:
 with open('twee.csv', 'wb') as archivo:
     archivo.write(csv.encode())
     archivo.close()
+
+client = textapi.Client("1fe73851", "e6655d7f5e51072533a66890a80e4e14")
